@@ -3,28 +3,28 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #f4f4f4;
 }
 
 header {
-    background-color: #4CAF50;
+    background: #007bff;
     color: white;
     padding: 20px;
-    font-size: 24px;
 }
 
-section {
-    margin: 20px;
+h2 {
+    color: #333;
+}
+
+.series img {
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 footer {
-    background-color: #333;
+    margin-top: 20px;
+    background: #007bff;
     color: white;
     padding: 10px;
-}
-img {
-    width: 250px;
-    height: auto;
-    border-radius: 10px;
-    margin: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
